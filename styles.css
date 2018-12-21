@@ -1,0 +1,29 @@
+body {
+  font-family: "arial";
+}
+
+input {
+  height: 20px;
+  padding: 5px;
+  font-size: 14px;
+  width: 200px;
+}
+
+button {
+  padding: 5px;
+  height: 32px;
+  vertical-align: top;
+  background-color: blue;
+  width: 75px;
+  color: aqua;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+span {
+  color: blue;
+}
+
+img {
+    width: 250px;
+}
